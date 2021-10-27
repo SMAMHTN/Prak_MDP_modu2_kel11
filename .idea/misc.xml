@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/drawable-v24/bg_header_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/activity_detail.xml" value="0.10989583333333333" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/activity_landing_page.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/activity_main.xml" value="0.21142284569138275" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/item_container_onboarding.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/item_rv_list_user.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 5/Praktikum  Pemrograman Perangkat Bergerak/OneDrive_1_10-1-2021/Modul 2 - Android Studio II/modul2_kelxx-main/app/src/main/res/layout/kelompok.xml" value="0.25" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.1962962962962963" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/drawable-v24/onboarding_indicator_inactive.xml" value="0.1962962962962963" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/activity_detail.xml" value="0.5" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/activity_landing_page.xml" value="0.10283687943262411" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/activity_splash_screen.xml" value="0.10283687943262411" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/item_cointainer_onboarding.xml" value="0.10283687943262411" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/item_container_onboarding.xml" value="0.10283687943262411" />
+        <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/item_rv_list_user.xml" value="0.12129629629629629" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
